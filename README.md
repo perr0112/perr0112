@@ -1,9 +1,10 @@
 <br />
 <h1>Clement P., Creative Developer</h1>
 
-Based in France, I am passionate about creative development, particularly in crafting immersive and interactive web experiences.
-I specialize in using GSAP to bring dynamic animations and micro-interactions to life, enhancing user engagement and storytelling.
-My curiosity and drive for innovation have led me to explore cutting-edge technologies like Three.js, which I am actively learning.
+Based in France, I am passionate about creative development, particularly in crafting immersive and
+interactive web experiences. I specialize in using GSAP to bring dynamic animations and
+micro-interactions to life, enhancing user engagement and storytelling. My curiosity and drive for
+innovation have led me to explore cutting-edge technologies like Three.js, which I am actively learning.
 
 ---
 
