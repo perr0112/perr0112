@@ -1,5 +1,5 @@
 <br />
-<h1>Hello! I’m Clement P. and I'm a Creative Developer !</h1>
+<h1>Clement P., Creative Developer</h1>
 
 Based in France, I am passionate about creative development, particularly in crafting immersive and interactive web experiences.
 I specialize in using GSAP to bring dynamic animations and micro-interactions to life, enhancing user engagement and storytelling.
