@@ -1,7 +1,11 @@
-- 👋  Hi, I’m @zowy71 and i'm a begginer in Developpement !
+<h1 class="text-align: center;">👋  Hi, I’m Clement P. and i'm a Creative Developer !</h1>
 
----
+## 📊 GitHub Stats
 
-![Zowy71's GitHub stats](https://github-readme-stats.vercel.app/api?username=perr0112&show_icons=true&theme=github_dark)
+Here's a quick overview of my GitHub activity:
 
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=perr0112&langs_count=5&theme=github_dark)]()
+![Stats](https://github-readme-stats.vercel.app/api?username=perr0112&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perr0112&layout=compact&theme=radical&langs_count=6)
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=perr0112&show_icons=true&theme=radical)
