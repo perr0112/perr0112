@@ -6,6 +6,8 @@ interactive web experiences. I specialize in using GSAP to bring dynamic animati
 micro-interactions to life, enhancing user engagement and storytelling. My curiosity and drive for <br />
 innovation have led me to explore cutting-edge technologies like Three.js, which I am actively learning. <br />
 
+![](https://komarev.com/ghpvc/?username=perr0112)
+
 ---
 
 * [Young Jury @Awwwards '25](https://www.awwwards.com/jury-member/prt-clement)
