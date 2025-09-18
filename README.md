@@ -16,9 +16,3 @@ innovation have led me to explore cutting-edge technologies like Three.js, which
 * [Linkedin](https://www.linkedin.com/in/cl%C3%A9ment-p-35bab4220/)
 
 ---
-
-Here's a quick overview of my GitHub activity:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=perr0112&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perr0112&layout=compact&theme=radical&langs_count=6)
