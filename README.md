@@ -11,6 +11,9 @@ innovation have led me to explore cutting-edge technologies like Three.js, which
 ---
 
 [Young Jury @Awwwards '25](https://www.awwwards.com/jury-member/prt-clement)
+
 [Last project (in progress)](https://bien-etre-seven.vercel.app/)
+
 [Portfolio](https://2024-portfolio-psi.vercel.app/)
+
 [Linkedin](https://www.linkedin.com/in/cl%C3%A9ment-p-35bab4220/)
